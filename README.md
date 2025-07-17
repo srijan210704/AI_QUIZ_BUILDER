@@ -24,14 +24,8 @@ https://github.com/user-attachments/assets/3da147fc-49fa-4f8c-befb-8aa0defc6b26
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
 
-```
-git clone https://github.com/Vishal-Patoliya/quiz_builder.git
-cd quiz_builder
-```
-
-### 2. Install Python Dependencies
+### 1. Install Python Dependencies
 Make sure you have pipenv installed. If not, install it:
 
 ```
@@ -46,7 +40,7 @@ pipenv install strands-agents strands-agents-tools
 
 ```
 
-### 3. Set Up and Run Local LLM (via Ollama)
+### 2. Set Up and Run Local LLM (via Ollama)
 Install Ollama from https://ollama.com, then download the Mistral model:
 
 ```
@@ -56,7 +50,7 @@ ollama pull mistral
 Make sure Ollama is running before starting the quiz builder.
 
 
-### 4. Run the Application with Streamlit
+### 3. Run the Application with Streamlit
 Install Streamlit if needed:
 
 ```
