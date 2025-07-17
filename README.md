@@ -2,7 +2,11 @@
 
 Quiz Builder is a web-based application designed for developers to generate tailored quiz questions based on specific skill sets, experience levels, and topic scopes using AI. It utilizes local large language models (LLMs) for fast and private quiz generation.
 
-![Demo of the Quiz App](https://github.com/Vishal-Patoliya/quiz_builder/blob/main/QuizBuilder.gif)
+![Demo of the Quiz App](
+
+https://github.com/user-attachments/assets/3da147fc-49fa-4f8c-befb-8aa0defc6b26
+
+)
 
 ---
 
@@ -79,7 +83,4 @@ Ollama (for running local LLMs)
 Mistral model (ollama pull mistral)
 ```
 
-## 🧑‍💼 Author
-Vishal Patoliya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-patoliya/)
